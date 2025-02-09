@@ -3,15 +3,21 @@ remote_theme: lorepirri/cayman-blog
 show_downloads: true
     
 # Navigation
-# navigation:
-#   - title: "Home"
-#     url: /
-#   - title: "About"
-#     url: /about/
-#   - title: "Projects"
-#     url: /projects/
-#   - title: "Blog"
-#     url: /blog/
-#   - title: "Contact"
-#     url: /contact/
-    
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
