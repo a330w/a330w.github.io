@@ -52,12 +52,23 @@ sections:
     description: Interactive data visualization projects
   - title: Certifications
     description: Professional certifications and courses
-
+    
+# Navigation
+navigation:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
+  - title: Contact
+    url: /contact
+    
 # Footer
 footer:
   show_social_links: true
   copyright_text: © 2025 Vaibhav Goel. All rights reserved.
-
+  
 # Build settings
 markdown: kramdown
 plugins:
