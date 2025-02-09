@@ -56,7 +56,7 @@ sections:
 # Navigation
 navigation:
   - title: About
-    url: /about
+    url: "https://docs.google.com/spreadsheets/d/1jnrxu0A3lx4E_JL46_xcpNCz9Dk2YG9y7nddXA81aDE/edit?gid=0#gid=0"
   - title: Projects
     url: /projects
   - title: Blog
