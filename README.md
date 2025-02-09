@@ -1,9 +1,5 @@
 <!-- Force GitHub Pages to move navigation to the top -->
 
-<style>
-  .masthead { display: none; }
-</style>
-
 [Home](/) | [About](/about) | [Projects](/projects) | [Blog](/blog) | [Contact](/contact)
 
 ---
