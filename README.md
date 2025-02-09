@@ -1,6 +1,7 @@
-# Vaibhav Goel
+# Portfolio
 
-## Data Scientist
+## Hi! 
+-I'm Vaibhav Goel!
 
 ### Education
 Btech, Civil
