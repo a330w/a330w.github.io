@@ -3,18 +3,18 @@
 # show_downloads: true
 # theme: jekyll-theme-cayman
 # Site settings
-title: Vaibhav Goel
-email: your.email@example.com
-description: >- 
-  Data Analyst transitioning to Data Science, with expertise in 
-  statistical analysis, machine learning, and data visualization. 
-  Passionate about deriving meaningful insights from complex datasets.
+title: Portfolio
+# email: your.email@example.com
+# description: >- 
+#   Data Analyst transitioning to Data Science, with expertise in 
+#   statistical analysis, machine learning, and data visualization. 
+#   Passionate about deriving meaningful insights from complex datasets.
 # baseurl: ""
 # url: "https://a330w.github.io"
 
 # Theme and display settings
 theme: jekyll-theme-cayman
-show_downloads: true
+show_downloads: false
 google_analytics: # your Google Analytics tracking ID
 
 # Professional profiles
