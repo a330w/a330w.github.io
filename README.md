@@ -1,4 +1,6 @@
-# Data Scientist
+# Vaibhav Goel
+
+## Data Scientist
 
 ### Education
 Btech, Civil
