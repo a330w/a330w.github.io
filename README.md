@@ -1,3 +1,5 @@
+[Home](/) | [About](/about) | [Projects](/projects) | [Blog](/blog) | [Contact](/contact)
+
 # 👋 Hi, I'm Vaibhav Goel
 
 ## About Me
