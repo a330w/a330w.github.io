@@ -1,11 +1,6 @@
 title: Portfolio
 remote_theme: lorepirri/cayman-blog
 show_downloads: true
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
     
 # Navigation
 navigation:
