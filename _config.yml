@@ -72,10 +72,10 @@ keywords: >-
   python, SQL, tableau, power BI
 
 # Exclude development files
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - .git
-  - README.md
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor
+#   - .git
+#   - README.md
