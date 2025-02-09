@@ -9,8 +9,8 @@ description: >-
   Data Analyst transitioning to Data Science, with expertise in 
   statistical analysis, machine learning, and data visualization. 
   Passionate about deriving meaningful insights from complex datasets.
-baseurl: ""
-url: "https://a330w.github.io"
+# baseurl: ""
+# url: "https://a330w.github.io"
 
 # Theme and display settings
 theme: jekyll-theme-cayman
