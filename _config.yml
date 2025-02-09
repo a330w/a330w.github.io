@@ -1,15 +1,22 @@
 title: Portfolio
 remote_theme: lorepirri/cayman-blog
 show_downloads: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
     
 # Navigation
 navigation:
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  - title: Blog
-    url: /blog
-  - title: Contact
-    url: /contact
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
     
