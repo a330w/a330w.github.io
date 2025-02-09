@@ -1,5 +1,68 @@
+# title: Vaibhav Goel
+# #logo: 
+# #description: text below image
+# show_downloads: true
+# theme: jekyll-theme-cayman
+# Site settings
 title: Vaibhav Goel
-#logo: 
-#description: text below image
-show_downloads: true
+email: your.email@example.com
+description: >- 
+  Data Scientist passionate about creating innovative solutions.
+  Experienced in Machine Learning, AI/ML.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol, e.g. http://example.com
+
+# Theme settings
 theme: jekyll-theme-cayman
+show_downloads: true
+# google_analytics: # your Google Analytics tracking ID here
+
+# Author information
+author:
+  name: Vaibhav Goel
+  location: New Delhi
+  github_username: a330w
+  linkedin_username: vaibhav-804
+  # twitter_username: your-twitter-username
+
+# Navigation
+navigation:
+  - title: About
+    # url: /about
+  - title: Projects
+    # url: /projects
+  - title: Blog
+    # url: /blog
+  - title: Contact
+    # url: /contact
+
+# Portfolio settings
+portfolio:
+  projects_per_page: 6
+  show_categories: true
+  categories:
+    - Web Development
+    - Mobile Apps
+    - Cloud Solutions
+    - Machine Learning
+
+# Footer
+footer:
+  show_social_links: true
+  copyright_text: © 2025 Vaibhav Goel. All rights reserved.
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - README.md
