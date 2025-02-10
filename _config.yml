@@ -2,7 +2,7 @@ title: Portfolio
 description: Hi! I am Vaibhav Goel!
 show_downloads: false
 
-baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "a330w.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://a330w.github.io" # change this to the base hostname & protocol for your site
 
 cayman-blog:
