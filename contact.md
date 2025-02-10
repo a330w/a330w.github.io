@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /contact.html
+ref: contact
+order: 3
 ---
 
 # Get in Touch
