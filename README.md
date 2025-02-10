@@ -1,5 +1,5 @@
 <!-- Fake heading to prevent duplication -->
-# Dummy Heading
+# 👋 Hi! I am Vaibhav Goel!
 {: .hidden-header }
 
 ## About Me
