@@ -2,8 +2,6 @@
 # Dummy Heading
 {: .hidden-header }
 
-# FUCK THIS SHIT
-
 ## About Me
 A dedicated Data Analyst transitioning into Data Science, with a passion for transforming complex datasets into actionable insights. I specialize in statistical analysis, machine learning, and creating impactful data visualizations that tell compelling stories.
 
