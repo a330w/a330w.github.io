@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blog.html
+ref: about
+order: 0
 ---
 
 # Blog Posts
