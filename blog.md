@@ -2,8 +2,8 @@
 layout: page
 title: Blog
 permalink: /blog.html
-ref: about
-order: 0
+ref: blog
+order: 2
 ---
 
 # Blog Posts
