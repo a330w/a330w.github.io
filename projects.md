@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /projects.html
+ref: projects
+order: 1
 ---
 
 # Data Science Projects
