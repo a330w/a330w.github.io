@@ -5,9 +5,9 @@ show_downloads: true
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://a330w.github.io" # change this to the base hostname & protocol for your site
 
-navigation:
-  - title: "Home"
-    url: /
+# navigation:
+#   - title: "Home"
+#     url: /
   # - title: "About"
   #   url: /about/
   # - title: "Projects"
@@ -38,4 +38,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-# header_page_refs: ['home', 'about', 'projects', 'blog', 'contact']
+header_page_refs: ['about', 'projects', 'contact']
