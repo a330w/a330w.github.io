@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.html
+ref: about
+order: 0
 ---
 
 # About Me
