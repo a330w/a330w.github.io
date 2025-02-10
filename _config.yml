@@ -8,14 +8,14 @@ url: "https://a330w.github.io" # change this to the base hostname & protocol for
 navigation:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Blog"
-    url: /blog/
-  - title: "Contact"
-    url: /contact/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Projects"
+  #   url: /projects/
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Contact"
+  #   url: /contact/
 
 # google_analytics:
 
