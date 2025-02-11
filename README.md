@@ -1,4 +1,3 @@
-<!-- Fake heading to prevent duplication -->
 # 👋 Hi! I am Vaibhav Goel!
 {: .hidden-header }
 
@@ -7,11 +6,15 @@ A dedicated Data Analyst transitioning into Data Science, with a passion for tra
 
 ## 🛠️ Technical Skills
 
-### Data Analysis
-- Python (Pandas, NumPy)
-- SQL
-- Excel/Google Sheets
-- Statistical Analysis
+## 🔍 Data Analysis Skills
+
+| 📌 Skill               | 🛠️ Tools & Technologies         |
+|----------------------|------------------------------|
+| **Python**          | Pandas, NumPy                 |
+| **SQL**            | Database Queries              |
+| **Excel/Google Sheets** | Data Manipulation           |
+| **Statistical Analysis** | Hypothesis Testing, Regression |
+
 
 ### Data Science & ML
 - Machine Learning (Scikit-learn)
