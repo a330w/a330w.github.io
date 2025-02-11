@@ -1,6 +1,6 @@
 <!-- Fake heading to prevent duplication -->
   
-# I turn data into clear insights, stunning visuals, and smart predictions. Data storytelling, but make it ✨impactful✨.
+# I turn data into clear insights, stunning visuals, and smart predictions. Data storytelling, but make it ***impactful***.
 
 <p>Data Analyst skilled in Python, Machine Learning, Deep Learning, and NLP.</p>
 
