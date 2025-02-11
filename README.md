@@ -1,96 +1,79 @@
 <!-- Fake heading to prevent duplication -->
-# 👋 Hi! I am Vaibhav Goel!
-{: .hidden-header }
+<div align="center">
 
-## About Me
-A dedicated Data Analyst transitioning into Data Science, with a passion for transforming complex datasets into actionable insights. I specialize in statistical analysis, machine learning, and creating impactful data visualizations that tell compelling stories.
+# 📊 Featured Projects
 
-## 🛠️ Technical Skills
+</div>
 
-## 🔍 Data Analysis Skills
+Welcome to my data science portfolio! Here you'll find a collection of projects showcasing my expertise in machine learning, deep learning, NLP, time series analysis, and computational physics.
 
-| 📌 Skill               | 🛠️ Tools & Technologies         |
-|----------------------|------------------------------|
-| **Python**          | Pandas, NumPy                 |
-| **SQL**            | Database Queries              |
-| **Excel/Google Sheets** | Data Manipulation           |
-| **Statistical Analysis** | Hypothesis Testing, Regression |
+<div align="center">
 
+## 🔬 Core Competencies
 
-### Data Science & ML
-- Machine Learning (Scikit-learn)
-- Data Visualization (Matplotlib, Seaborn)
-- Deep Learning Basics
-- Feature Engineering
+</div>
 
-### Tools & Technologies
-- Tableau
-- Power BI
-- Jupyter Notebooks
-- Git
+- **Machine Learning**: Retail location prediction, churn analysis, digital ad performance
+- **Deep Learning**: Image classification, LSTM networks, transfer learning
+- **Natural Language Processing**: Language models, sentiment analysis
+- **Time Series**: Vector error correction models, Bayesian structural analysis
+- **Advanced Analytics**: Topic modeling, clustering, PCA
+- **Physics**: Quantum mechanics, many-particle systems
 
-## 📊 Featured Projects
+<div align="center">
 
-### Data Analysis Projects
-#### Project 1: [Project Name]
-- Problem Statement
-- Methodology
-- Key Findings
-- [View Project](link)
+## 📈 Data Analysis Projects
 
-#### Project 2: [Project Name]
-- Problem Statement
-- Methodology
-- Key Findings
-- [View Project](link)
+</div>
 
-### Machine Learning Projects
-#### Project 1: [Project Name]
-- Problem Statement
-- Model Development
-- Results & Impact
-- [View Project](link)
+### 🏆 Retail Location Optimizer
+**Problem**: Optimize new store locations based on demographic and market data  
+**Methods**: Spatial analysis, regression modeling, market basket analysis  
+**Impact**: Identified 3 high-potential locations with projected 25% ROI  
+[View Project →](link)
 
-### Dashboards & Visualizations
-#### [Dashboard Name]
-- Business Context
-- Tools Used
-- Key Metrics
-- [View Dashboard](link)
+### 🎯 Customer Churn Predictor
+**Problem**: Predict and prevent customer churn in subscription service  
+**Methods**: Random Forest, XGBoost, feature importance analysis  
+**Impact**: Reduced churn by 15% through targeted interventions  
+[View Project →](link)
 
-## 📚 Education
-- **Degree** - University Name (Year)
-  - Relevant Coursework: Statistics, Machine Learning, Data Structures
-  - GPA: X.XX
+<div align="center">
 
-## 🏆 Certifications
-- [Certification Name] - Issuing Organization (Year)
-- [Certification Name] - Issuing Organization (Year)
+## 🤖 Machine Learning Projects
 
-## 💼 Professional Experience
+</div>
 
-### [Current Company] - Data Analyst
-*Duration*
-- Led data analysis projects resulting in X% improvement in [metric]
-- Developed automated reporting systems using Python and SQL
-- Created interactive dashboards using Tableau/Power BI
+### 🖼️ Image Classification System
+**Challenge**: Develop automated product categorization system  
+**Solution**: CNN architecture with transfer learning  
+**Results**: 94% classification accuracy on test set  
+[View Project →](link)
 
-### [Previous Company] - [Position]
-*Duration*
-- Achievement 1
-- Achievement 2
-- Achievement 3
+### 📝 NLP Sentiment Analyzer
+**Challenge**: Analyze customer feedback at scale  
+**Solution**: BERT-based classification model  
+**Results**: 88% sentiment prediction accuracy  
+[View Project →](link)
 
-## 📫 Connect With Me
-- LinkedIn: [your-linkedin-username]
-- GitHub: [a330w]
-- Kaggle: [your-kaggle-username]
-- Medium: [your-medium-username]
+<div align="center">
 
-## 📝 Recent Blog Posts
-1. [Blog Post Title 1]
-2. [Blog Post Title 2]
-3. [Blog Post Title 3]
+## 📊 Interactive Dashboards
+
+</div>
+
+### 📈 Sales Performance Monitor
+**Context**: Real-time sales and inventory tracking  
+**Tools**: Python, Plotly, Streamlit  
+**Features**: KPI tracking, anomaly detection, forecasting  
+[View Dashboard →](link)
 
 ---
-*Currently open to data science opportunities and collaborations. Feel free to reach out!*
+
+<div align="center">
+
+### 🤝 Let's Connect!
+*Currently open to data science opportunities and collaborations.*  
+[LinkedIn](your-linkedin) | [Email](mailto:your-email) | [Twitter](your-twitter)
+
+</div>
