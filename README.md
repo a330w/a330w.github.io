@@ -1,5 +1,4 @@
 <!-- Fake heading to prevent duplication -->
-<div align = "left">
   
 # I turn data into clear insights, stunning visuals, and smart predictions. Data storytelling, but make it ✨impactful✨.
 
@@ -7,7 +6,6 @@
 
 *Currently open to data analyst and data science opportunities and collaborations.*
 
-</div>
 
 ## 📈 Data Analysis Projects
 
