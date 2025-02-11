@@ -1,15 +1,10 @@
 <!-- Fake heading to prevent duplication -->
-<div align="center">
 
-<h1>I turn data into clear insights, stunning visuals, and smart predictions. Data storytelling, but make it ✨impactful✨.</h1>
+#I turn data into clear insights, stunning visuals, and smart predictions. Data storytelling, but make it ✨impactful✨.
 
+<p>Data Analyst skilled in Python, Machine Learning, Deep Learning, and NLP.
+*Currently open to data analyst and data science opportunities and collaborations.*</p>
 
-
-<p>Data Analyst skilled in Python, Machine Learning, Deep Learning, and NLP.</p>
-*Currently open to data analyst and data science opportunities and collaborations.*
-
-
-</div>
 
 ## 📈 Data Analysis Projects
 
