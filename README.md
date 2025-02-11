@@ -1,3 +1,4 @@
+<!-- Fake heading to prevent duplication -->
 # 👋 Hi! I am Vaibhav Goel!
 {: .hidden-header }
 
