@@ -11,17 +11,6 @@
   Content with background
 </div>
 
-<!-- Horizontal Rule -->
----
-***
-___
-
-<!-- Line Break -->
-<br>
-
-<!-- Custom Font Size -->
-<h1 style="font-size: 24px;">Custom Size Heading</h1>
-
 ## 🤖 Machine Learning Projects
 
 ### ☕ Email Spam Detection 
